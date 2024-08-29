@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mehritik/WeatherApp/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" alt="App Icon" width="150" height="150">
+  <img src="https://raw.githubusercontent.com/mehritik/WeatherApp/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" alt="App Icon" width="150" height="150">
   <h1>WeatherApp</h1>
 </div>
 ## Overview
