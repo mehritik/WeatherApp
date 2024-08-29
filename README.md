@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/mehritik/WeatherApp/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" alt="App Icon" width="150" height="150">
   <h1>WeatherApp</h1>
 </div>
+
 ## Overview
 
 The Weather Forecast Android App provides real-time weather updates based on the user's current location or a manually entered city name. The app fetches data from the WeatherAPI and displays essential weather information like temperature, humidity, weather conditions, wind speed, and UV index. The app is designed with a focus on simplicity, user-friendliness, and responsiveness.
