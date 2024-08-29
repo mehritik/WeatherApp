@@ -1,7 +1,7 @@
 
 # Weather Forecast Android App
 
-![App Icon]([https://via.placeholder.com/150x150.png?text=App+Icon](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/ic_launcher-playstore.png))
+![App Icon](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/ic_launcher-playstore.png)
 
 ## Overview
 
@@ -18,13 +18,21 @@ The Weather Forecast Android App provides real-time weather updates based on the
 ## Screenshots
 
 ### Welcome Screen
-![Home Screen]([https://via.placeholder.com/300x600.png?text=Home+Screen](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot1.jpg))
+![Home Screen](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot1.jpg)
 
 ### Weather Data
-![Weather Data]([https://via.placeholder.com/300x600.png?text=Weather+Data](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot2.jpg))
+![Weather Data](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot2.jpg)
 
 ### Manual City Entry
-![Manual City Entry]([https://via.placeholder.com/300x600.png?text=Manual+City+Entry](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot3.jpg))
+![Manual City Entry](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot3.jpg)
+
+## Download
+
+You can download the latest version of the Weather Forecast Android App from the link below:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/mehritik/WeatherApp/raw/master/app/app-debug.apk)
+
+
 
 ## Architecture
 
