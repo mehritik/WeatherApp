@@ -81,7 +81,7 @@ The app follows the Model-View-ViewModel (MVVM) architecture, ensuring a clear s
 - Build the project by selecting "Build" -> "Make Project."
 - Run the project on an emulator or a physical device.
 
-  ## Assumptions & Limitations
+## Assumptions & Limitations
 
 **Assumptions**:
 
