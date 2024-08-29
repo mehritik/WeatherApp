@@ -26,6 +26,22 @@ The Weather Forecast Android App provides real-time weather updates based on the
 ### Manual City Entry
 ![Manual City Entry](https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot3.jpg)
 
+## Screenshots
+
+<table>
+  <tr>
+    <th>Welcome Screen</th>
+    <th>Weather Data</th>
+    <th>Manual City Entry</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot1.jpg" alt="Welcome Screen" width="200"/></td>
+    <td><img src="https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot2.jpg" alt="Weather Data" width="200"/></td>
+    <td><img src="https://github.com/mehritik/WeatherApp/blob/master/app/src/main/Screenshot3.jpg" alt="Manual City Entry" width="200"/></td>
+  </tr>
+</table>
+
+
 ## Download
 
 You can download the latest version of the Weather Forecast Android App from the link below:
